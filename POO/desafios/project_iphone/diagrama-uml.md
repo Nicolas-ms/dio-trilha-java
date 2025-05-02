@@ -1,3 +1,9 @@
+
+#### Arquivo: `diagrama-uml.md`
+```markdown
+# Diagrama UML - iPhone
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
