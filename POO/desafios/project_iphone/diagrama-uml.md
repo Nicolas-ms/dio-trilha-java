@@ -26,5 +26,4 @@ classDiagram
     IPhone ..|> AparelhoTelefonico
     IPhone ..|> NavegadorInternet
 
-![image](https://github.com/user-attachments/assets/1a7148f1-5209-4a44-b02a-4a4e1a557564)
 
