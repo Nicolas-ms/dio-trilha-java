@@ -1,0 +1,12 @@
+one/digitalinnovation/gof/controller/GlobalExceptionHandler.class
+one/digitalinnovation/gof/controller/ClienteRestController.class
+one/digitalinnovation/gof/Application.class
+one/digitalinnovation/gof/dto/ClienteDTO.class
+one/digitalinnovation/gof/dto/EnderecoDTO.class
+one/digitalinnovation/gof/model/EnderecoRepository.class
+one/digitalinnovation/gof/service/ViaCepService.class
+one/digitalinnovation/gof/service/ClienteService.class
+one/digitalinnovation/gof/service/impl/ClienteServiceImpl.class
+one/digitalinnovation/gof/model/Cliente.class
+one/digitalinnovation/gof/model/ClienteRepository.class
+one/digitalinnovation/gof/model/Endereco.class
